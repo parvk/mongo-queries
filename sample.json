@@ -1,0 +1,1406 @@
+[{
+    "_id": {
+      "$oid": "61decea691e3a90009324797"
+    },
+    "name": "sample",
+    "variants": [
+      {
+        "isDefault": true,
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642590509994.jpeg",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1641991742985.svg",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61decea691e3a90009324798"
+        },
+        "title": "Sample UAT Product",
+        "description": "Sample UAT Product",
+        "listPrice": 3250,
+        "discountPrice": 3000,
+        "gstRate": 20,
+        "hsnCode": "hfdhfn",
+        "eanCode": "1234123412341",
+        "pageTitle": "Sample UAT Product",
+        "pageDescription": "Sample UAT Product",
+        "pageUrl": "sample-uat-product",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1642590551497"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1642590551497"
+          }
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61ded6d1d74928000935ed27"
+    },
+    "name": "Electro",
+    "variants": [
+      {
+        "isCustomerMaxLimit": false,
+        "preventCancellation": false,
+        "manualTracking": false,
+        "inventory": null,
+        "hideInCrossSell": false,
+        "hideOnWebsite": false,
+        "scanRequired": false,
+        "isDefault": true,
+        "bundleProducts": [],
+        "crossSellProducts": [],
+        "isBundle": false,
+        "status": "ACTIVE",
+        "_id": {
+          "$oid": "61ded6d1d74928000935ed28"
+        },
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642058742901.png",
+            "description": "first image",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642058727087.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642058730274.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642058732821.png",
+            "description": "4th image",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642058719436.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642058736872.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1671608187330"
+              }
+            }
+          }
+        ],
+        "title": "toothsi electro",
+        "description": "Maintaining oral health is now easier than ever.\nPresenting toothsi electro: A smarter way to take care of your teeth and gums.\n\nOrder now and get this product delivered within 7-10 working days.\nPrice is inclusive of all taxes.\n",
+        "listPrice": 2499,
+        "discountPrice": 1170,
+        "gstRate": 12,
+        "hsnCode": "sdsdsa",
+        "eanCode": "1234123412341",
+        "pageTitle": "toothsi Electro",
+        "pageDescription": "Shop toothsi Electro Toothbrush Online in India",
+        "pageUrl": "toothsi-electro",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1671608187330"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1671608193063"
+          }
+        },
+        "sfProductId": "01tC7000000EQfTIAW",
+        "wareiqProductId": 60794230,
+        "appMediaUrl": [
+          {
+            "url": "https://productbeta.jaim.tech/1651735071571.png",
+            "description": ""
+          }
+        ],
+        "sortOrder": 3,
+        "customerMaxLimit": 3,
+        "credProductName": "electro smart electric toothbrush",
+        "highlights": [
+          "recommended",
+          "trending"
+        ],
+        "weight": 12,
+        "length": 12,
+        "height": 12,
+        "width": 12
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61ded8d76f352d00094ef1ad"
+    },
+    "name": "gel",
+    "variants": [
+      {
+        "isDefault": true,
+        "crossSellProducts": [],
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1641994414658.jpeg",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61ded8d76f352d00094ef1ae"
+        },
+        "title": "toothsi Spark Teeth Whitening Gel Refill",
+        "description": "toothsi Spark Teeth Whitening Gel Refill",
+        "listPrice": 630,
+        "discountPrice": 630,
+        "gstRate": 3,
+        "hsnCode": "def",
+        "eanCode": "1242323232323",
+        "pageTitle": "toothsi Spark Teeth Whitening Gel Refill",
+        "pageDescription": "toothsi Spark Teeth Whitening Gel Refill",
+        "pageUrl": "toothsi-spark-whitening-gel-refill",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1644581301419"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1644815069236"
+          }
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61dfcd02b34fc10009aa4d57"
+    },
+    "name": "NA",
+    "variants": [
+      {
+        "isCustomerMaxLimit": false,
+        "preventCancellation": false,
+        "manualTracking": false,
+        "inventory": null,
+        "hideInCrossSell": false,
+        "hideOnWebsite": false,
+        "scanRequired": false,
+        "isDefault": true,
+        "bundleProducts": [],
+        "crossSellProducts": [
+          "633575a65bb1af0020cb1c3e"
+        ],
+        "isBundle": false,
+        "status": "ACTIVE",
+        "_id": {
+          "$oid": "61dfcd02b34fc10009aa4d58"
+        },
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642056446292.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642056424499.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642404160909.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642247132838.mp4",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642056401289.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642056418922.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642056438169.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1669611056286"
+              }
+            }
+          }
+        ],
+        "title": "foamy aligner cleaning foam - 1",
+        "description": "So you’ve started using aligners. That’s great! But as you take them out to gorge on your favourite food, there’s something you’ve gotta do before putting them back on.\nFoamy (as we fondly like to call it) is our very own aligner cleaning foam. The best part about it is that you can literally use it anytime, wherever you are. \n\nOrder now and get this product delivered within 7-10 working days.\nPrice is inclusive of all taxes.",
+        "listPrice": 750,
+        "discountPrice": 450,
+        "gstRate": 12,
+        "hsnCode": "123456",
+        "eanCode": "1234567891011",
+        "pageTitle": "foamy aligner cleaning foam",
+        "pageDescription": "Shop Foamy – Aligner Cleaning Foam Online | toothsi",
+        "pageUrl": "foamy-aligner-cleaning-foam-1",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1669611056286"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1669611062672"
+          }
+        },
+        "appMediaUrl": [],
+        "sfProductId": "01tC7000000EQgqIAG",
+        "wareiqProductId": 65876493,
+        "sortOrder": 1,
+        "weight": 10,
+        "length": 10,
+        "height": 10,
+        "width": 10
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61ded84ed74928000935ed33"
+    },
+    "name": "toothsi spark teeth whitening pen",
+    "variants": [
+      {
+        "isCustomerMaxLimit": true,
+        "manualTracking": false,
+        "inventory": null,
+        "hideInCrossSell": false,
+        "preventCancellation": false,
+        "hideOnWebsite": false,
+        "scanRequired": false,
+        "isDefault": true,
+        "bundleProducts": [],
+        "crossSellProducts": [
+          "61bb55864af8387c97e291b8",
+          "61a76beec1267c5c9b76f749"
+        ],
+        "isBundle": false,
+        "status": "ACTIVE",
+        "_id": {
+          "$oid": "61ded84ed74928000935ed34"
+        },
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642059591631.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642059581243.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642059584371.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642059574547.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642059587529.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1655714435194"
+              }
+            }
+          }
+        ],
+        "title": "toothsi spark teeth whitening pen",
+        "description": "Who doesn’t love to flaunt their bright smile? Be it posing for a selfie or laughing out loud, a smile is probably one of the best ways to express yourself.\n\nBut wouldn’t it be better if that smile was even brighter? Wait there’s more. What if we told you that you could get that brighter smile, even when you’re on-the-go?\n\nSay hello to our spark teeth whitening pen that fits in your pocket and gives you whiter teeth, anytime, anywhere.\n\nOrder now and get this product delivered within 7-10 working days.\nPrice is inclusive of all taxes.",
+        "listPrice": 2999,
+        "discountPrice": 1800,
+        "gstRate": 12,
+        "hsnCode": "2132131",
+        "eanCode": "1232142132131",
+        "pageTitle": "toothsi spark teeth whitening pen",
+        "pageDescription": "Shop toothsi Spark Teeth Whitening Pen Online",
+        "pageUrl": "toothsi-spark-whitening-pen",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1655714435194"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1655714441614"
+          }
+        },
+        "sfProductId": "01t9H00000019kPQAQ",
+        "wareiqProductId": 60794229,
+        "appMediaUrl": [
+          {
+            "url": "https://productbeta.jaim.tech/1651735619963.png",
+            "description": ""
+          }
+        ],
+        "sortOrder": 2,
+        "prePostSales": [
+          "PRE_SALES",
+          "POST_SALES"
+        ],
+        "customerMaxLimit": 6,
+        "saleDetails": {
+          "isActive": true,
+          "isLimitedTime": true,
+          "saleStartDate": "2022-08-09T00:00:00",
+          "saleEndDate": "2022-08-15T23:59:59",
+          "saleTitle": "independence day sale",
+          "saleMedia": {
+            "url": "https://assets.toothsi.in/location_pin_45fb990629.svg",
+            "altText": "independence-sale-img"
+          }
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61e023af8b14300009d76595"
+    },
+    "name": "teeth",
+    "variants": [
+      {
+        "isDefault": false,
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642078883139.png",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642078894388.webp",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61e023af8b14300009d76596"
+        },
+        "title": "blue small",
+        "description": "blue small@\nTESt",
+        "listPrice": 500,
+        "discountPrice": 300,
+        "gstRate": 3,
+        "hsnCode": "1213455",
+        "eanCode": "1234567876545",
+        "variantData": {
+          "Size": "small",
+          "Color": "blue"
+        },
+        "pageTitle": "test11",
+        "pageDescription": "test11",
+        "pageUrl": "test11",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1642510953330"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1642588161933"
+          }
+        }
+      },
+      {
+        "isDefault": true,
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642078983553.webp",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61e023af8b14300009d76597"
+        },
+        "title": "blue medium",
+        "description": "blue medium",
+        "listPrice": 6000,
+        "discountPrice": 1000,
+        "gstRate": 2,
+        "hsnCode": "ederrr",
+        "eanCode": "1234456789873",
+        "variantData": {
+          "Size": "medium",
+          "Color": "blue"
+        },
+        "pageTitle": "blue medium",
+        "pageDescription": "blue medium",
+        "pageUrl": "bluemedium",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1642510953330"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1642588161933"
+          }
+        }
+      },
+      {
+        "isDefault": false,
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642092574675.webp",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61e058c6cfc23a00097f0982"
+        },
+        "title": "large",
+        "description": "large",
+        "listPrice": 1000,
+        "discountPrice": 800,
+        "gstRate": 2,
+        "hsnCode": "33444",
+        "eanCode": "1234567899999",
+        "variantData": {
+          "Size": "large",
+          "Color": "blue"
+        },
+        "pageTitle": "large",
+        "pageDescription": "large",
+        "pageUrl": "large",
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1642588161933"
+          }
+        },
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1642510953330"
+          }
+        }
+      },
+      {
+        "isDefault": false,
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642092657975.png",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61e058c6cfc23a00097f0983"
+        },
+        "title": "micro",
+        "description": "micro",
+        "listPrice": 1000,
+        "discountPrice": 800,
+        "gstRate": 2,
+        "hsnCode": "123456",
+        "eanCode": "1234567898765",
+        "variantData": {
+          "Size": "micro",
+          "Color": "blue"
+        },
+        "pageTitle": "micro",
+        "pageDescription": "micro",
+        "pageUrl": "micro",
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1642588161933"
+          }
+        },
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1642510953330"
+          }
+        }
+      },
+      {
+        "isDefault": false,
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642092719276.webp",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61e058c6cfc23a00097f0984"
+        },
+        "title": "mini",
+        "description": "mini",
+        "listPrice": 1000,
+        "discountPrice": 800,
+        "gstRate": 2,
+        "hsnCode": "12345",
+        "eanCode": "1234567891234",
+        "variantData": {
+          "Size": "mini",
+          "Color": "blue"
+        },
+        "pageTitle": "mini",
+        "pageDescription": "mini",
+        "pageUrl": "mini",
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1642588161933"
+          }
+        },
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1642510953330"
+          }
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61dfd30cf2806a00090c6f72"
+    },
+    "name": "cheek retractor",
+    "variants": [
+      {
+        "isCustomerMaxLimit": false,
+        "preventCancellation": false,
+        "manualTracking": false,
+        "inventory": null,
+        "hideInCrossSell": false,
+        "hideOnWebsite": false,
+        "scanRequired": false,
+        "isDefault": true,
+        "bundleProducts": [],
+        "crossSellProducts": [],
+        "isBundle": false,
+        "status": "ACTIVE",
+        "_id": {
+          "$oid": "61dfd30cf2806a00090c6f73"
+        },
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642058441544.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1668579614024"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1668579614024"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642058434282.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1668579614024"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1668579614024"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642246970744.mp4",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1668579614024"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1668579614024"
+              }
+            }
+          }
+        ],
+        "title": "cheek retractor",
+        "description": "As part of your smile makeover, we need to track your progress after every 15 days. For which we need you to send us your tracking pictures and videos. That's when our cheek retractor's got your back.\n\nOrder now and get this product delivered within 7-10 working days.\nPrice is inclusive of all taxes.",
+        "listPrice": 650,
+        "discountPrice": 450,
+        "gstRate": 12,
+        "hsnCode": "123456",
+        "eanCode": "1234567891011",
+        "pageTitle": "cheek retractor",
+        "pageDescription": "Shop Cheek Retractor Online | toothsi\n",
+        "pageUrl": "cheek-retractor",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1668579614024"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1668579619826"
+          }
+        },
+        "sfProductId": "01tC20000001n3VIAQ",
+        "appMediaUrl": [],
+        "wareiqProductId": 65870056,
+        "sortOrder": 1,
+        "length": 12,
+        "width": 14,
+        "height": 23,
+        "weight": 32
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61e43c294e559e0009d0f2d8"
+    },
+    "name": "Chewie",
+    "variants": [
+      {
+        "isDefault": true,
+        "crossSellProducts": [],
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642347273712.mp4",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642347245584.jpeg",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61e43c294e559e0009d0f2d9"
+        },
+        "title": "CH WS",
+        "description": "Different flavour chewie available in many color ...",
+        "listPrice": 300,
+        "discountPrice": 250,
+        "gstRate": 10,
+        "hsnCode": "ABC2345",
+        "eanCode": "5467893456789",
+        "variantData": {
+          "Color": "white",
+          "Flavour": "strawbery"
+        },
+        "pageTitle": "CH WS",
+        "pageDescription": "test Product",
+        "pageUrl": "CHWS",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1644493395312"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1644493399383"
+          }
+        },
+        "sfProductId": "01tC20000001okLIAQ"
+      },
+      {
+        "isDefault": false,
+        "crossSellProducts": [],
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642347483055.jpeg",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642347490121.jpeg",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642347493896.jpeg",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642347498540.jpeg",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642347507014.mp4",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61e43c294e559e0009d0f2da"
+        },
+        "title": "CH PS",
+        "description": "tea jijia hjgyug ",
+        "listPrice": 300,
+        "discountPrice": 300,
+        "gstRate": 5,
+        "hsnCode": "EAN5627486256",
+        "eanCode": "1234567890194",
+        "variantData": {
+          "Color": "pink",
+          "Flavour": "strawbery"
+        },
+        "pageTitle": "CH PS",
+        "pageDescription": "test Product 2",
+        "pageUrl": "CHPS",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1644493395312"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1644493399544"
+          }
+        },
+        "sfProductId": "01tC20000001olxIAA"
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61dfcf73ace909000923ff91"
+    },
+    "name": "chewie aligner",
+    "variants": [
+      {
+        "isDefault": true,
+        "crossSellProducts": [],
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642057468791.jpeg",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642057387533.png",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642057406019.png",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642057414345.png",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642247170833.mp4",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61dfcf73ace909000923ff92"
+        },
+        "title": "chewie aligner",
+        "description": "Like many others, you too are a victim of our clickbait title!\nFirst things first, no, these are not candies, unfortunately. However, they do come in three exciting flavours! \n\nOrder now and get this product delivered within 7-10 working days.\nPrice is inclusive of all taxes.",
+        "listPrice": 700,
+        "discountPrice": 360,
+        "gstRate": 12,
+        "hsnCode": "123456",
+        "eanCode": "1234567891011",
+        "pageTitle": "chewie aligner",
+        "pageDescription": "Shop chewie aligner accessories | toothsi",
+        "pageUrl": "chewie-aligner",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1644402378146"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1644494872157"
+          }
+        },
+        "sfProductId": "01tC20000001maVIAQ"
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61e06092cfc23a00097f0a66"
+    },
+    "name": "gel",
+    "variants": [
+      {
+        "isDefault": true,
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642094700799.webp",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61e06092cfc23a00097f0a67"
+        },
+        "title": "testing",
+        "description": "testing",
+        "listPrice": 500,
+        "discountPrice": 250,
+        "gstRate": 5,
+        "hsnCode": "12342",
+        "eanCode": "1234567891234",
+        "variantData": {
+          "Size": "small",
+          "Color": "white",
+          "Weight": "100g",
+          "Flavour": "mint",
+          "Fragrance": "mint"
+        },
+        "pageTitle": "testing",
+        "pageDescription": "testing",
+        "pageUrl": "testing",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1642510868715"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1642587994057"
+          }
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61e00732a4826600092381a4"
+    },
+    "name": "11111111",
+    "variants": [
+      {
+        "isDefault": true,
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642069049623.png",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642069059278.webp",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642069068306.webp",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642069076835.mp4",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642069034839.mp4",
+            "description": ""
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642069026495.png",
+            "description": ""
+          }
+        ],
+        "status": "INACTIVE",
+        "_id": {
+          "$oid": "61e00732a4826600092381a5"
+        },
+        "title": "test",
+        "description": "product is used for teeth whitening ,it has many featurs and many variants ,and it has 90% discount ,the list price is 650 and discounted pricce is 70",
+        "listPrice": 650,
+        "discountPrice": 70,
+        "gstRate": 5,
+        "hsnCode": "123455",
+        "eanCode": "1234567899999",
+        "variantData": {
+          "Color": "pink ",
+          "Size": "large"
+        },
+        "pageTitle": "test",
+        "pageDescription": "test",
+        "pageUrl": "test",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1642510904068"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1642588161933"
+          }
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61dfd219ace909000923ffae"
+    },
+    "name": "dry box",
+    "variants": [
+      {
+        "isCustomerMaxLimit": false,
+        "preventCancellation": false,
+        "manualTracking": false,
+        "inventory": null,
+        "hideInCrossSell": false,
+        "hideOnWebsite": false,
+        "scanRequired": false,
+        "isDefault": true,
+        "bundleProducts": [],
+        "crossSellProducts": [],
+        "isBundle": false,
+        "status": "ACTIVE",
+        "_id": {
+          "$oid": "61dfd219ace909000923ffaf"
+        },
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642058159315.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1667380797767"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1667380797767"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642058156078.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1667380797767"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1667380797767"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642246925105.mp4",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1667380797767"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1667380797767"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642058149504.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1667380797767"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1667380797767"
+              }
+            }
+          }
+        ],
+        "title": "dry box",
+        "description": "Just like your smile, your aligners too need some TLC!\nJewels go into the locker they say and your aligners are no less. Storing them appropriately helps in maintaining proper hygiene.\n\nOrder now and get this product delivered within 7-10 working days.\nPrice is inclusive of all taxes.",
+        "listPrice": 250,
+        "discountPrice": 180,
+        "gstRate": 12,
+        "hsnCode": "123456",
+        "eanCode": "1234567891011",
+        "pageTitle": "dry box",
+        "pageDescription": "Shop Dry Box Online | toothsi",
+        "pageUrl": "dry-box",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1667380797767"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1667380801068"
+          }
+        },
+        "sfProductId": "01tC20000001mqbIAA",
+        "appMediaUrl": [],
+        "wareiqProductId": 64476106,
+        "sortOrder": 1
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "61ded7d76f352d00094ef182"
+    },
+    "name": "kit",
+    "variants": [
+      {
+        "preventCancellation": false,
+        "hideOnWebsite": false,
+        "scanRequired": false,
+        "isDefault": true,
+        "bundleProducts": [],
+        "crossSellProducts": [
+          "62440ba2581ec40009c73b00",
+          "6268d05f38a5fc000967b99f",
+          "6268d05f38a5fc000967b9a0",
+          "6266ba1b72ad6800094cbc39"
+        ],
+        "isBundle": false,
+        "status": "ACTIVE",
+        "_id": {
+          "$oid": "61ded7d76f352d00094ef183"
+        },
+        "mediaUrl": [
+          {
+            "url": "https://productuat.jaim.tech/1642059146620.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642059116916.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642059136961.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642059141301.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642059126571.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          },
+          {
+            "url": "https://productuat.jaim.tech/1642059144043.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          },
+          {
+            "url": "https://productbeta.jaim.tech/1644833475508.mp4",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          },
+          {
+            "url": "https://productbeta.jaim.tech/1644835997380.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          },
+          {
+            "url": "https://productbeta.jaim.tech/1644835999725.png",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          },
+          {
+            "url": "https://productbeta.jaim.tech/1644836004025.mp4",
+            "description": "",
+            "updatedAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            },
+            "createdAt": {
+              "$date": {
+                "$numberLong": "1651145751821"
+              }
+            }
+          }
+        ],
+        "title": "toothsi spark whitening kit",
+        "description": "Experience convenience like never before with toothsi. Let us introduce you to toothsi spark teeth whitening kit. Now you can get whiter teeth from the comfort of your very home.\n\n\nOrder now and get this product delivered within 7-10 working days.\nPrice is inclusive of all taxes.",
+        "listPrice": 11999,
+        "discountPrice": 5400,
+        "gstRate": 3,
+        "hsnCode": "sdsd",
+        "eanCode": "1234123412431",
+        "pageTitle": "toothsi spark whitening kit",
+        "pageDescription": "Shop toothsi Spark Teeth Whitening Kit with Pens Online\n",
+        "pageUrl": "toothsi-spark-whitening-kit",
+        "createdAt": {
+          "$date": {
+            "$numberLong": "1651145751821"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1651145755402"
+          }
+        },
+        "sfProductId": "01t9H00000019ajQAA",
+        "appMediaUrl": [],
+        "wareiqProductId": 60794228,
+        "saleDetails": {
+          "isActive": true,
+          "isLimitedTime": true,
+          "saleStartDate": "2022-08-09T00:00:00",
+          "saleEndDate": "2022-08-15T23:59:59",
+          "saleTitle": "independence day sale",
+          "saleMedia": {
+            "url": "https://assets.toothsi.in/location_pin_45fb990629.svg",
+            "altText": "independence-sale-img"
+          }
+        }
+      }
+    ]
+  }]
